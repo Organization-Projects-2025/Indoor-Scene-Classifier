@@ -1,0 +1,82 @@
+2025-05-21 00:03:53,896 - INFO - Feature extraction took 73.87 seconds.
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+[CV 1/5] END ................C=0.1, gamma=0.001;, score=0.852 total time= 1.7min
+[CV 2/5] END ................C=0.1, gamma=0.001;, score=0.849 total time= 1.7min
+[CV 3/5] END ................C=0.1, gamma=0.001;, score=0.868 total time= 1.7min
+[CV 4/5] END ................C=0.1, gamma=0.001;, score=0.856 total time= 1.7min
+[CV 5/5] END ................C=0.1, gamma=0.001;, score=0.848 total time= 1.7min
+[CV 1/5] END .................C=0.1, gamma=0.01;, score=0.212 total time= 3.5min
+[CV 2/5] END .................C=0.1, gamma=0.01;, score=0.212 total time= 3.5min
+[CV 3/5] END .................C=0.1, gamma=0.01;, score=0.213 total time= 3.4min
+[CV 4/5] END .................C=0.1, gamma=0.01;, score=0.213 total time= 3.4min
+[CV 5/5] END .................C=0.1, gamma=0.01;, score=0.212 total time= 3.4min
+[CV 1/5] END ..................C=0.1, gamma=0.1;, score=0.212 total time= 3.4min
+[CV 2/5] END ..................C=0.1, gamma=0.1;, score=0.212 total time= 3.4min
+[CV 3/5] END ..................C=0.1, gamma=0.1;, score=0.213 total time= 3.5min
+[CV 4/5] END ..................C=0.1, gamma=0.1;, score=0.213 total time= 3.4min
+[CV 5/5] END ..................C=0.1, gamma=0.1;, score=0.212 total time= 3.4min
+[CV 1/5] END ................C=0.1, gamma=scale;, score=0.851 total time= 1.6min
+[CV 2/5] END ................C=0.1, gamma=scale;, score=0.849 total time= 1.6min
+[CV 3/5] END ................C=0.1, gamma=scale;, score=0.863 total time= 1.7min
+[CV 4/5] END ................C=0.1, gamma=scale;, score=0.858 total time= 1.7min
+[CV 5/5] END ................C=0.1, gamma=scale;, score=0.850 total time= 1.6min
+[CV 1/5] END ..................C=1, gamma=0.001;, score=0.890 total time= 1.2min
+[CV 2/5] END ..................C=1, gamma=0.001;, score=0.891 total time= 1.2min
+[CV 3/5] END ..................C=1, gamma=0.001;, score=0.892 total time= 1.2min
+[CV 4/5] END ..................C=1, gamma=0.001;, score=0.885 total time= 1.2min
+[CV 5/5] END ..................C=1, gamma=0.001;, score=0.881 total time= 1.2min
+[CV 1/5] END ...................C=1, gamma=0.01;, score=0.537 total time= 3.6min
+[CV 2/5] END ...................C=1, gamma=0.01;, score=0.547 total time= 3.8min
+[CV 3/5] END ...................C=1, gamma=0.01;, score=0.541 total time= 3.7min
+[CV 4/5] END ...................C=1, gamma=0.01;, score=0.547 total time= 3.4min
+[CV 5/5] END ...................C=1, gamma=0.01;, score=0.544 total time= 3.4min
+[CV 1/5] END ....................C=1, gamma=0.1;, score=0.312 total time= 3.4min
+[CV 2/5] END ....................C=1, gamma=0.1;, score=0.299 total time= 3.5min
+[CV 3/5] END ....................C=1, gamma=0.1;, score=0.309 total time= 3.5min
+[CV 4/5] END ....................C=1, gamma=0.1;, score=0.317 total time= 3.4min
+[CV 5/5] END ....................C=1, gamma=0.1;, score=0.309 total time= 3.4min
+[CV 1/5] END ..................C=1, gamma=scale;, score=0.892 total time= 1.0min
+[CV 2/5] END ..................C=1, gamma=scale;, score=0.891 total time= 1.0min
+[CV 3/5] END ..................C=1, gamma=scale;, score=0.892 total time= 1.0min
+[CV 4/5] END ..................C=1, gamma=scale;, score=0.881 total time= 1.0min
+[CV 5/5] END ..................C=1, gamma=scale;, score=0.877 total time= 1.0min
+[CV 1/5] END .................C=10, gamma=0.001;, score=0.895 total time= 1.2min
+[CV 2/5] END .................C=10, gamma=0.001;, score=0.895 total time= 1.2min
+[CV 3/5] END .................C=10, gamma=0.001;, score=0.896 total time= 1.2min
+[CV 4/5] END .................C=10, gamma=0.001;, score=0.890 total time= 1.2min
+[CV 5/5] END .................C=10, gamma=0.001;, score=0.891 total time= 1.2min
+[CV 1/5] END ..................C=10, gamma=0.01;, score=0.571 total time= 3.3min
+[CV 2/5] END ..................C=10, gamma=0.01;, score=0.576 total time= 3.3min
+[CV 3/5] END ..................C=10, gamma=0.01;, score=0.574 total time= 3.3min
+[CV 4/5] END ..................C=10, gamma=0.01;, score=0.580 total time= 3.3min
+[CV 5/5] END ..................C=10, gamma=0.01;, score=0.577 total time= 3.3min
+[CV 1/5] END ...................C=10, gamma=0.1;, score=0.315 total time= 3.3min
+[CV 2/5] END ...................C=10, gamma=0.1;, score=0.300 total time= 3.3min
+[CV 3/5] END ...................C=10, gamma=0.1;, score=0.309 total time= 3.3min
+[CV 4/5] END ...................C=10, gamma=0.1;, score=0.318 total time= 3.4min
+[CV 5/5] END ...................C=10, gamma=0.1;, score=0.310 total time= 3.4min
+[CV 1/5] END .................C=10, gamma=scale;, score=0.893 total time= 1.1min
+[CV 2/5] END .................C=10, gamma=scale;, score=0.893 total time= 1.1min
+[CV 3/5] END .................C=10, gamma=scale;, score=0.898 total time= 1.1min
+[CV 4/5] END .................C=10, gamma=scale;, score=0.891 total time= 1.1min
+[CV 5/5] END .................C=10, gamma=scale;, score=0.893 total time= 1.1min
+2025-05-21 02:27:13,293 - INFO - SVM training took 8599.39 seconds with best params: {'C': 10, 'gamma': 'scale'}
+2025-05-21 02:27:50,205 - INFO - Validation Accuracy: 0.8962
+
+Classification Report:
+               precision    recall  f1-score   support
+
+        bath       0.92      0.95      0.94       486
+         bed       0.91      0.90      0.91       489
+ dining room       0.90      0.88      0.89       521
+     kitchen       0.90      0.87      0.88       447
+ living room       0.85      0.88      0.87       524
+
+    accuracy                           0.90      2467
+   macro avg       0.90      0.90      0.90      2467
+weighted avg       0.90      0.90      0.90      2467
+
+2025-05-21 02:27:50,778 - INFO - SVM model saved as 'svm_model.pkl'
+
+
+8409 seconds

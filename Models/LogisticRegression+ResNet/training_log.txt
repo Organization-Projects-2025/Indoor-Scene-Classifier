@@ -1,0 +1,27 @@
+Feature Extraction Time: 55.84 seconds
+Logistic Regression Training Time: 1572.65 seconds
+Best Logistic Regression Params: {'C': 0.1, 'solver': 'lbfgs'}
+Validation Accuracy: 0.8926
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        bath       0.93      0.94      0.94       486
+         bed       0.90      0.89      0.90       489
+ dining room       0.90      0.87      0.88       521
+     kitchen       0.91      0.88      0.90       447
+ living room       0.83      0.88      0.85       524
+
+    accuracy                           0.89      2467
+   macro avg       0.89      0.89      0.89      2467
+weighted avg       0.89      0.89      0.89      2467
+
+Cross-Validation Results:
+Mean CV Score: 0.8812 with params: {'C': 0.1, 'solver': 'lbfgs'}
+Mean CV Score: 0.8806 with params: {'C': 0.1, 'solver': 'liblinear'}
+Mean CV Score: 0.8716 with params: {'C': 1, 'solver': 'lbfgs'}
+Mean CV Score: 0.8721 with params: {'C': 1, 'solver': 'liblinear'}
+Mean CV Score: 0.8649 with params: {'C': 10, 'solver': 'lbfgs'}
+Mean CV Score: 0.8642 with params: {'C': 10, 'solver': 'liblinear'}
+Mean CV Score: 0.8637 with params: {'C': 100, 'solver': 'lbfgs'}
+Mean CV Score: 0.8612 with params: {'C': 100, 'solver': 'liblinear'}

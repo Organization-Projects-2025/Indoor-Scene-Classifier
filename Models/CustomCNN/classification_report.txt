@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+        bath       0.86      0.90      0.88       486
+         bed       0.75      0.88      0.81       489
+ dining room       0.84      0.77      0.81       521
+     kitchen       0.88      0.80      0.83       447
+ living room       0.80      0.76      0.78       524
+
+    accuracy                           0.82      2467
+   macro avg       0.82      0.82      0.82      2467
+weighted avg       0.82      0.82      0.82      2467

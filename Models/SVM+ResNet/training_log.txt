@@ -1,0 +1,31 @@
+Feature Extraction Time: 73.87 seconds
+SVM Training Time: 8599.39 seconds
+Best SVM Params: {'C': 10, 'gamma': 'scale'}
+Validation Accuracy: 0.8962
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        bath       0.92      0.95      0.94       486
+         bed       0.91      0.90      0.91       489
+ dining room       0.90      0.88      0.89       521
+     kitchen       0.90      0.87      0.88       447
+ living room       0.85      0.88      0.87       524
+
+    accuracy                           0.90      2467
+   macro avg       0.90      0.90      0.90      2467
+weighted avg       0.90      0.90      0.90      2467
+
+Cross-Validation Results:
+Mean CV Score: 0.8544 with params: {'C': 0.1, 'gamma': 0.001}
+Mean CV Score: 0.2125 with params: {'C': 0.1, 'gamma': 0.01}
+Mean CV Score: 0.2125 with params: {'C': 0.1, 'gamma': 0.1}
+Mean CV Score: 0.8542 with params: {'C': 0.1, 'gamma': 'scale'}
+Mean CV Score: 0.8880 with params: {'C': 1, 'gamma': 0.001}
+Mean CV Score: 0.5433 with params: {'C': 1, 'gamma': 0.01}
+Mean CV Score: 0.3090 with params: {'C': 1, 'gamma': 0.1}
+Mean CV Score: 0.8865 with params: {'C': 1, 'gamma': 'scale'}
+Mean CV Score: 0.8934 with params: {'C': 10, 'gamma': 0.001}
+Mean CV Score: 0.5757 with params: {'C': 10, 'gamma': 0.01}
+Mean CV Score: 0.3102 with params: {'C': 10, 'gamma': 0.1}
+Mean CV Score: 0.8936 with params: {'C': 10, 'gamma': 'scale'}

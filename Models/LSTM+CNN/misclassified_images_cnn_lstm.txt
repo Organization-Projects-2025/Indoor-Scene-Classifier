@@ -1,0 +1,10 @@
+True: living room, Predicted: bath, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\living_2718.jpg
+True: dining room, Predicted: living room, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\din_695.jpg
+True: dining room, Predicted: kitchen, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\din_1485.jpg
+True: living room, Predicted: bed, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\living_591.jpg
+True: dining room, Predicted: kitchen, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\din_1808.jpg
+True: bath, Predicted: kitchen, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\bath_3359.jpg
+True: dining room, Predicted: kitchen, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\din_735.jpg
+True: dining room, Predicted: kitchen, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\din_539.jpg
+True: kitchen, Predicted: bath, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\kitchen_2123.jpg
+True: bed, Predicted: living room, Image: C:\Users\ahmed\Downloads\ML-Project\Dataset\interior\bed_1377.jpg

@@ -1,0 +1,10 @@
+# Requirements for running the Gradio interface
+# Note: Requires Python 3.8 or higher
+
+gradio==3.0.0
+tensorflow==2.10.0
+numpy==1.21.0
+pillow==8.3.1
+scikit-learn==0.24.2
+matplotlib==3.4.2
+seaborn==0.11.2
